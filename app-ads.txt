@@ -1,1 +1,2 @@
 vungle.com, 6929adba8a3ebd3155e4e5c7, DIRECT, c107d686becd2d77
+google.com, pub-4357674204692789, DIRECT, f08c47fec0942fa0
